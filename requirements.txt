@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+numpy
+python-multipart
+google-generativeai
+python-dotenv
+PyPDF2
+pdfplumber
+python-docx
+Pillow
+reportlab
