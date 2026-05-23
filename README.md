@@ -133,9 +133,9 @@ Analytics dashboard for institutions
 👨‍💻 Team
 
 Team Lead: CHARAN TEJ U
-Team Members : KANDA KEDARESWAR , KANCHARLA SURYA SAI TEJA , VEMULA CHENCHU NAGA VENKATA THARUN SAI
+Team Members : KANDA KEDARESWAR , CHERUKUNOORI MIDHUN SAI
 Institution: KALASALINGAM ACADEMY OF RESEARCH AND EDUCATION 
 
 📜 License
 
-This project is developed for academic and hackathon purposes.
+This project is developed for a hackathon purpose.
